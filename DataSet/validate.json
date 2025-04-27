@@ -1,0 +1,88 @@
+{
+  "intents": [
+      {
+          "tag": "greeting",
+          "patterns": [
+              "Is anyone there?",
+              "Good to see you",
+              "Hello friend",
+              "Hi there, how's it going?",
+              "Hey, how are you?",
+              "Greetings!",
+              "Hey, nice to see you",
+              "Hi, good to see you",
+              "Hey, what's new?"
+          ],
+          "responses": []
+      },
+        {
+          "tag": "anxious",
+          "patterns": [
+            "I'm feeling anxious",
+            "I can't stop worrying",
+            "I'm so nervous",
+            "I feel so tense",
+            "My anxiety is overwhelming",
+            "My heart is racing and I can't relax"
+          ],
+          "responses": []
+        },
+        {
+          "tag": "stressed",
+          "patterns": [
+            "I'm feeling stressed",
+            "I'm so overwhelmed",
+            "I can't handle this",
+            "I'm at my breaking point",
+            "I'm so tense",
+            "I'm about to lose it"
+          ],
+          "responses": []
+        },
+        {
+          "tag": "suicide",
+          "patterns": [
+            "I want to end my life",
+            "I'm thinking about suicide",
+            "I can't see any reason to live",
+            "I just want it all to stop",
+            "I'm planning to kill myself"
+          ],
+          "responses": []
+        },
+        {
+          "tag": "hate-me",
+          "patterns": [
+            "You don't like me",
+            "Fuck you pandora",
+            "I know you hate me",
+            "Why do you hate me?"
+          ],
+          "responses": []
+        },
+        {
+          "tag": "jokes",
+          "patterns": [
+            "I want to hear something funny",
+            "Make me laugh",
+            "Do you know any jokes?",
+            "Can you tell me a joke?",
+            "I need a good laugh",
+            "Say something funny"
+          ],
+          "responses": []
+        },
+        {
+          "tag": "sleep",
+          "patterns": [
+            "I'm having trouble sleeping",
+            "I keep waking up at night",
+            "I can't fall asleep",
+            "I'm struggling to sleep",
+            "I need help sleeping",
+            "Why can't I sleep?"
+          ],
+          "responses": []
+        }
+  ]
+}
