@@ -19,7 +19,7 @@
 ## Instalación
 
 ### Pre-requisitos
-- Python 3.x
+- Python 3.10.11
 - pip
 
 ### Pasos
