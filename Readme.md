@@ -25,8 +25,8 @@
 ### Pasos
 1. Clonar el repositorio:
    ```sh
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/Fernandolopez2171/ChatBot
+   cd ChatBot
    ```
 
 2. Instalar dependencias del backend:
